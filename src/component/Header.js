@@ -4,7 +4,7 @@ import logo from "../assets/logo.png";
 
 function Header() {
   return (
-    <Navbar className="bg-body-tertiary ">
+    <Navbar className=" ">
       <Container>
         <Navbar.Brand className="d-flex justify-content-between w-100">
           <img
